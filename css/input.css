@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+
+@font-face {
+  font-family: 'PoiretOne';
+  src: url(assets/font/PoiretOne-Regular.ttf);
+}
+@font-face {
+  font-family: 'Badkhat2';
+  src: url(assets/font/persian-badkh@t2.ttf);
+}
+
+@tailwind utilities;
